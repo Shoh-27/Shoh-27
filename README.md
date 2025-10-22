@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend & Fullstack Developer</b><br>
-  <i>Crafting clean, scalable, and high-performance applications</i>
+  <i>Building scalable, secure, and high-performance web applications</i>
 </p>
 
 ---
@@ -35,6 +35,16 @@
 
 ---
 
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 📚 **Online Library Platform** | A modern web app for reading and downloading digital books. | Laravel, MySQL, Tailwind CSS |
+| 🤖 **AI Crypto Forecaster** | Predicts cryptocurrency prices using AI & APIs. | Laravel, Python, API Integration |
+| 🎮 **Game Development Platform** | Like Steam — lets users create, test, and play games online. | Laravel 10, Docker, Redis, PostgreSQL |
+| 🧠 **Education API** | An API for online learning with courses, lessons & quizzes. | Laravel, MySQL, REST API |
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=tokyonight" height="160" />
@@ -46,15 +56,27 @@
 ### 🌍 About Me
 <p align="center">
   💡 Passionate about <b>AI, backend architecture, and scalable systems</b><br>
-  🧩 Always learning, building, and contributing to the developer community<br>
-  🚀 Dreaming big — building something the world will use
+  🔥 Always improving and building real-world projects<br>
+  🌎 Goal: <b>To create a platform the world will use</b>
+</p>
+
+---
+
+### 📬 Contact Me
+<p align="center">
+  <a href="mailto:shoh.nizomov.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://t.me/shohrux_dev">
+    <img src="https://img.shields.io/badge/Telegram-@shohrux__dev-blue?style=flat-square&logo=telegram" />
+  </a>
+  <a href="https://github.com/Shoh-27">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i><br>
-  <a href="https://github.com/Shoh-27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square" />
-  </a>
+  <i>“Code. Learn. Build. Repeat.”</i>
 </p>
