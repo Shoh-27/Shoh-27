@@ -9,7 +9,7 @@
 
 ### 🧠 Tech Stack — Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css" />
 </p>
 
 ---
@@ -23,14 +23,14 @@
 
 ### ⚙️ DevOps, Tools & Environments
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,phpstorm" />
 </p>
 
 ---
 
 ### 🧩 Other Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=composer,npm,bash" />
+  <img src="https://skillicons.dev/icons?i=composer,npm,bash,xampp" />
 </p>
 
 ---
@@ -39,11 +39,9 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | 🎓 **Mini-Udemy** | A learning management system for online courses, lessons, and quizzes — like Udemy, built from scratch. | Laravel 10, MySQL, REST API, Bootstrap |
-| 💰 **Expense Tracker** | A web app for managing daily expenses with reports, charts, and user authentication. | Laravel 9, MySQL, Tailwind CSS |
-| 🧑‍🤝‍🧑 **Social Media Platform** | A social media app with profiles, posts, comments, likes, and real-time notifications. | Laravel 11, WebSockets, Docker, Redis |
-| ⚔️ **RPG Game Platform** | Online platform for role-playing games — includes quests, inventory, and progress tracking. | Laravel 10, PostgreSQL, Docker |
-| 🤖 **AI Crypto Forecaster** | Predicts cryptocurrency trends using API data and AI-based analysis. | Laravel, Python, API Integration |
-| 📚 **Online Library Platform** | Modern digital library for reading and downloading books. | Laravel, MySQL, Tailwind CSS |
+| 💰 **Expense Tracker** | A web app for managing daily expenses with reports, charts, and user authentication. | Laravel 10, MySQL, Tailwind CSS, Blade Templates|
+| 🧑‍🤝‍🧑 **Social Media Platform** | A social media app with profiles, posts, comments, likes, and real-time notifications. | Laravel 11, WebSockets, Docker, Redis, Tailwind CSS, Blade Templates, PostgreSQL|
+| ⚔️ **RPG Game Platform** | Online platform for role-playing games — includes quests, inventory, and progress tracking. | Laravel 10, MySql, Blade Templates, Tailwind CSS – |
 
 ---
 
