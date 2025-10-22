@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend & Fullstack Developer</b><br>
-  <i>Building scalable, secure, and high-performance web applications</i>
+  <i>Building scalable, secure, and intelligent web platforms</i>
 </p>
 
 ---
@@ -38,10 +38,12 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 📚 **Online Library Platform** | A modern web app for reading and downloading digital books. | Laravel, MySQL, Tailwind CSS |
-| 🤖 **AI Crypto Forecaster** | Predicts cryptocurrency prices using AI & APIs. | Laravel, Python, API Integration |
-| 🎮 **Game Development Platform** | Like Steam — lets users create, test, and play games online. | Laravel 10, Docker, Redis, PostgreSQL |
-| 🧠 **Education API** | An API for online learning with courses, lessons & quizzes. | Laravel, MySQL, REST API |
+| 🎓 **Mini-Udemy** | A learning management system for online courses, lessons, and quizzes — like Udemy, built from scratch. | Laravel 10, MySQL, REST API, Bootstrap |
+| 💰 **Expense Tracker** | A web app for managing daily expenses with reports, charts, and user authentication. | Laravel 9, MySQL, Tailwind CSS |
+| 🧑‍🤝‍🧑 **Social Media Platform** | A social media app with profiles, posts, comments, likes, and real-time notifications. | Laravel 11, WebSockets, Docker, Redis |
+| ⚔️ **RPG Game Platform** | Online platform for role-playing games — includes quests, inventory, and progress tracking. | Laravel 10, PostgreSQL, Docker |
+| 🤖 **AI Crypto Forecaster** | Predicts cryptocurrency trends using API data and AI-based analysis. | Laravel, Python, API Integration |
+| 📚 **Online Library Platform** | Modern digital library for reading and downloading books. | Laravel, MySQL, Tailwind CSS |
 
 ---
 
@@ -55,9 +57,9 @@
 
 ### 🌍 About Me
 <p align="center">
-  💡 Passionate about <b>AI, backend architecture, and scalable systems</b><br>
-  🔥 Always improving and building real-world projects<br>
-  🌎 Goal: <b>To create a platform the world will use</b>
+  💡 Passionate about <b>AI, scalable architecture, and clean backend design</b><br>
+  🧩 Always learning, experimenting, and building impactful solutions<br>
+  🚀 Vision: <b>To build a platform that connects the world through knowledge and innovation</b>
 </p>
 
 ---
@@ -67,7 +69,7 @@
   <a href="mailto:shoh.nizomov.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://t.me/shohrux_dev">
+  <a href="https://t.me/Nizomov27">
     <img src="https://img.shields.io/badge/Telegram-@shohrux__dev-blue?style=flat-square&logo=telegram" />
   </a>
   <a href="https://github.com/Shoh-27">
