@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Shohrux Nizomov</h1>
 
-<!--
-**Shoh-27/Shoh-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Backend & Fullstack Developer | Passionate about clean architecture and scalable systems</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,python" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+---
+
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+</p>
+
+---
+
+### 🧩 Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=composer,npm,bash" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code. Learn. Build. Repeat.”</i>
+</p>
