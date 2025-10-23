@@ -57,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shoh-27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shoh-27&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
