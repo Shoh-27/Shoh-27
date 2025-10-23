@@ -43,7 +43,7 @@
 | 🎓 [**Mini-Udemy**](https://github.com/Shoh-27/mini-udemy) | A learning management system with online courses, lessons, and quizzes. | Laravel 10 • MySQL • REST API • Bootstrap |
 | 💰 [**Expense Tracker**](https://github.com/Shoh-27/expense-tracker) | Track daily expenses with authentication, charts & reports. | Laravel 10 • MySQL • Tailwind CSS |
 | 🧑‍🤝‍🧑 [**Social Media Platform**](https://github.com/Shoh-27/social-media) | Real-time app with profiles, posts, comments & notifications. | Laravel 11 • WebSockets • Docker • Redis • PostgreSQL |
-| ⚔️ [**RPG Game Platform**](https://github.com/Shoh-27/rpg-game-platform) | Online RPG platform with quests, inventory, and progress tracking system. | Laravel 10 • MySQL • Blade • Tailwind CSS |
+| ⚔️ [**RPG Game Platform**](https://github.com/Shoh-27/rpg) | Online RPG platform with quests, inventory, and progress tracking system. | Laravel 10 • MySQL • Blade • Tailwind CSS |
 
 ---
 
