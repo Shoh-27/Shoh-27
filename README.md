@@ -24,25 +24,26 @@
 
 ## ⚙️ DevOps, Tools & Environments
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,phpstorm,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,phpstorm,nginx,linux" />
 </p>
 
 ---
 
 ## 🧩 Other Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=composer,npm,bash,linux,xampp" />
+  <img src="https://skillicons.dev/icons?i=composer,npm,bash,xampp" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
 | 🧱 Project | 💬 Description | 🛠 Tech Stack |
 |------------|----------------|----------------|
-| 🎓 **Mini-Udemy** | A learning management system with courses, lessons, and quizzes. | Laravel 10 • MySQL • REST API • Bootstrap |
-| 💰 **Expense Tracker** | Track daily expenses with authentication, charts & reports. | Laravel 10 • MySQL • Tailwind CSS |
-| 🧑‍🤝‍🧑 **Social Media Platform** | Real-time social media app with profiles, posts & notifications. | Laravel 11 • WebSockets • Docker • Redis • PostgreSQL |
-| ⚔️ **RPG Game Platform** | Online RPG gaming platform with quests, inventory, and tracking. | Laravel 10 • MySQL • Blade • Tailwind CSS |
+| 🎓 [**Mini-Udemy**](https://github.com/Shoh-27/mini-udemy) | A learning management system with online courses, lessons, and quizzes. | Laravel 10 • MySQL • REST API • Bootstrap |
+| 💰 [**Expense Tracker**](https://github.com/Shoh-27/expense-tracker) | Track daily expenses with authentication, charts & reports. | Laravel 10 • MySQL • Tailwind CSS |
+| 🧑‍🤝‍🧑 [**Social Media Platform**](https://github.com/Shoh-27/social-media) | Real-time app with profiles, posts, comments & notifications. | Laravel 11 • WebSockets • Docker • Redis • PostgreSQL |
+| ⚔️ [**RPG Game Platform**](https://github.com/Shoh-27/rpg-game-platform) | Online RPG platform with quests, inventory, and progress tracking system. | Laravel 10 • MySQL • Blade • Tailwind CSS |
 
 ---
 
@@ -56,15 +57,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 <br>
 
-<!-- Activity Graph (Stable & Stylish) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoh-27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true" width="95%" alt="Shohrux Nizomov Activity Graph"/>
-
+<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 <br>
 
-<!-- Summary Card (Stable Alternative to Streak) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoh-27&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shoh-27&theme=tokyonight" height="150"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoh-27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true" width="95%" alt="Shohrux Nizomov Activity Graph"/>
 
 </div>
 
@@ -75,7 +71,8 @@
   💡 Passionate about <b>AI, scalable architecture, and clean backend design</b><br>
   🧩 Always learning, experimenting, and building impactful solutions<br>
   🚀 Vision: <b>To build a platform that connects the world through knowledge and innovation</b><br>
-  🎯 Currently focused on: <b>Online Gaming Platform | Hosting SaaS | E-Learning Hub</b>
+  🎯 Currently focused on: <b>Online Gaming Platform | Hosting SaaS | E-Learning Hub</b><br>
+  🌱 Constantly improving in: <b>Docker, PostgreSQL, and Cloud Infrastructure</b>
 </p>
 
 ---
@@ -91,11 +88,15 @@
   <a href="https://github.com/Shoh-27">
     <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/shohrux-nizomov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i><br><br>
+  <i>“Code. Learn. Build. Repeat.”</i><br>
+  <i>⭐ If you like my projects, consider giving them a star!</i><br><br>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
