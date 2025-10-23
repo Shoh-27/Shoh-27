@@ -63,8 +63,7 @@
 <br>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>](https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true&border_radius=10
-)
+<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
