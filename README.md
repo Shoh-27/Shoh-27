@@ -56,7 +56,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+<!-- Activity Graph (Stable & Stylish) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoh-27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true" width="95%" alt="Shohrux Nizomov Activity Graph"/>
+
+<br>
+
+<!-- Summary Card (Stable Alternative to Streak) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoh-27&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shoh-27&theme=tokyonight" height="150"/>
+
 
 </div>
 
