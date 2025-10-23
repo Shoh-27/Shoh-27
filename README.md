@@ -57,7 +57,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shoh-27&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- Asl streak image -->
+<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<!-- Fallback sifatida — oddiy badge -->
+[![streak fallback](https://img.shields.io/badge/streak-Check%20profile-lightgrey?style=flat-square)](https://github.com/Shoh-27)
+
 
 <br>
 
