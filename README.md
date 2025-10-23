@@ -1,59 +1,75 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Shohrux Nizomov</span></h1>
 
 <p align="center">
-  <b>Backend & Fullstack Developer</b><br>
-  <i>Building scalable, secure, and intelligent web platforms</i>
+  <b>💻 Backend & Fullstack Developer</b><br>
+  <i>Building scalable, secure, and intelligent web platforms</i><br>
+  <img src="https://komarev.com/ghpvc/?username=Shoh-27&label=Profile+Views&color=0078ff&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧠 Tech Stack — Languages & Frameworks
+## 🧠 Tech Stack — Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css" />
 </p>
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ---
 
-### ⚙️ DevOps, Tools & Environments
+## ⚙️ DevOps, Tools & Environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,phpstorm" />
 </p>
 
 ---
 
-### 🧩 Other Skills
+## 🧩 Other Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=composer,npm,bash,xampp" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🎓 **Mini-Udemy** | A learning management system for online courses, lessons, and quizzes — like Udemy, built from scratch. | Laravel 10, MySQL, REST API, Bootstrap |
-| 💰 **Expense Tracker** | A web app for managing daily expenses with reports, charts, and user authentication. | Laravel 10, MySQL, Tailwind CSS, Blade Templates|
-| 🧑‍🤝‍🧑 **Social Media Platform** | A social media app with profiles, posts, comments, likes, and real-time notifications. | Laravel 11, WebSockets, Docker, Redis, Tailwind CSS, Blade Templates, PostgreSQL|
-| ⚔️ **RPG Game Platform** | Online platform for role-playing games — includes quests, inventory, and progress tracking. | Laravel 10, MySql, Blade Templates, Tailwind CSS – |
+## 🚀 Featured Projects
+
+| 🧱 Project | 💬 Description | 🛠 Tech Stack |
+|------------|----------------|----------------|
+| 🎓 **Mini-Udemy** | A learning management system with online courses, lessons, and quizzes. | Laravel 10, MySQL, REST API, Bootstrap |
+| 💰 **Expense Tracker** | Track daily expenses with authentication, charts, and reports. | Laravel 10, MySQL, Tailwind CSS, Blade Templates |
+| 🧑‍🤝‍🧑 **Social Media Platform** | Real-time social media with profiles, posts, comments, and notifications. | Laravel 11, WebSockets, Docker, Redis, Tailwind CSS, PostgreSQL |
+| ⚔️ **RPG Game Platform** | Online platform for RPG games with quests, inventory, and progress tracking. | Laravel 10, MySQL, Blade Templates, Tailwind CSS |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight" height="160" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoh-27&theme=tokyonight" width="800" alt="Profile Summary"/>
+
+<br>
+
+<!-- GitHub Stats & Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<br>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-### 🌍 About Me
+## 🌍 About Me
 <p align="center">
   💡 Passionate about <b>AI, scalable architecture, and clean backend design</b><br>
   🧩 Always learning, experimenting, and building impactful solutions<br>
@@ -62,21 +78,22 @@
 
 ---
 
-### 📬 Contact Me
+## 📬 Contact Me
 <p align="center">
   <a href="mailto:shoh.nizomov.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Nizomov27">
-    <img src="https://img.shields.io/badge/Telegram-@shohrux__dev-blue?style=flat-square&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@shohrux__dev-blue?style=for-the-badge&logo=telegram" />
   </a>
   <a href="https://github.com/Shoh-27">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i>
+  <i>“Code. Learn. Build. Repeat.”</i><br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
