@@ -6,34 +6,32 @@ Building scalable, secure, and intelligent web systems.
 ---
 
 ### 🧠 Core Expertise
-- **Languages & Frameworks:** PHP (Laravel), JavaScript (React), Tailwind CSS  
+- **Backend Development:** Laravel, REST APIs, Authentication, Real-time Systems  
+- **Frontend:** React, Tailwind CSS, Bootstrap  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **DevOps & Tools:** Docker, Git, Nginx, Linux  
-
----
-
-### 🚀 Selected Projects
-- **Mini-Udemy** — Learning platform with lessons, quizzes, and analytics  
-  _Laravel 10, MySQL, Bootstrap_
-- **Social Media Platform** — Real-time app with posts, comments & notifications  
-  _Laravel 11, WebSockets, Docker, Redis, PostgreSQL_
-- **RPG Game Platform** — Online RPG with inventory & quests system  
-  _Laravel 10, MySQL, Tailwind_
+- **DevOps & Tools:** Docker, Git, GitHub, Nginx, Linux  
+- **Others:** Composer, NPM, Bash, Cloud Environments  
 
 ---
 
 ### 🌍 About
-I’m passionate about **AI, scalable backend design**, and **cloud infrastructure**.  
-Currently focused on:
-- Online Gaming Platform  
-- Hosting SaaS  
-- E-Learning Hub
+I’m a developer passionate about **architecture, scalability, and clean backend design**.  
+My focus is on building **cloud-based, high-performance platforms** that integrate AI and real-time technologies.  
+
+Currently working on:
+- ⚙️ Hosting SaaS Platform  
+- 🎮 Online Gaming Platform  
+- 🎓 E-Learning Hub  
+
+Always exploring new technologies, improving infrastructure, and pushing boundaries of what’s possible in web development.
 
 ---
 
 ### 📫 Contact
 📧 [shoh.nizomov.dev@gmail.com](mailto:shoh.nizomov.dev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/shohrux-nizomov) | [GitHub](https://github.com/Shoh-27)
+💼 [LinkedIn](https://www.linkedin.com/in/shohrux-nizomov)  
+💬 [Telegram](https://t.me/Nizomov27)  
+🐙 [GitHub](https://github.com/Shoh-27)
 
 ---
 
