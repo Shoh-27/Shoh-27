@@ -16,7 +16,6 @@ Building scalable, secure, and intelligent web systems.
 
 ### 📫 Contact
 📧 [shoh.nizomov.dev@gmail.com](mailto:shoh.nizomov.dev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/Shohrux Nizomov)  
 💬 [Telegram](https://t.me/Nizomov27)  
 🐙 [GitHub](https://github.com/Shoh-27)
 
