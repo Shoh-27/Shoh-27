@@ -1,25 +1,26 @@
 # Shohrux Nizomov
 
-**Founder-minded Backend & Full-Stack Developer**  
-Building SaaS products, scalable platforms, and intelligent web systems.
+**Founder-minded Backend & Full-Stack Engineer**  
+Building SaaS products, scalable platforms, and intelligent web systems with long-term vision.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=36BCF7&width=700&lines=Building+SaaS+%E2%80%A2+Platforms+%E2%80%A2+AI+Systems;Designing+Scalable+Backend+Architectures;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=36BCF7&width=700&lines=Building+SaaS+Products;Designing+Scalable+Backend+Architectures;Turning+Ideas+Into+Real+Systems" />
 </p>
-
-
-
 
 ---
 
 ## 🚀 About Me
-I am a Computer Science & Software Engineering student with a **startup mindset**.  
-I focus on building **products**, not just projects — systems that can grow from **MVP to global scale**.
+I’m a **Computer Science & Software Engineering student** with a strong **startup and product mindset**.
 
-I enjoy:
-- clean backend architecture
-- scalable system design
-- solving real-world problems with code
+I don’t just build features —  
+I design **systems that scale**, evolve, and solve **real-world problems**.
+
+I’m especially passionate about:
+- clean and maintainable backend architecture  
+- scalable system & database design  
+- turning early ideas into production-ready products  
+
+I think long-term, iterate fast, and focus on impact.
 
 ---
 
@@ -29,32 +30,32 @@ I enjoy:
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
-<sub>Core backend technologies for secure, scalable APIs and platforms.</sub>
+<sub>Core backend tools for building secure, scalable APIs and platforms.</sub>
 
 ### Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
-<sub>Modern UI tools for fast and clean user experiences.</sub>
+<sub>Modern UI technologies for fast, clean, and responsive interfaces.</sub>
 
 ### Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
-<sub>Reliable relational and NoSQL data storage.</sub>
+<sub>Relational and NoSQL databases for reliable data storage.</sub>
 
 ### DevOps & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,bash" />
 </p>
-<sub>Infrastructure, deployment, and version control.</sub>
+<sub>Deployment, infrastructure, and version control essentials.</sub>
 
 ---
 
-## 📌 What I’m Working On
-- 🚀 Building **SaaS products** from scratch  
-- 🧩 Designing **platform-oriented architectures**  
-- 🤖 Integrating **AI-powered features** into real systems  
+## 📌 What I’m Focused On
+- 🚀 Building **real SaaS products**, not demos  
+- 🧩 Designing **platform-oriented backend architectures**  
+- 🤖 Integrating **AI-powered features** into practical systems  
 
 ---
 
@@ -78,4 +79,4 @@ I enjoy:
 
 ---
 
-> *Build products. Think long-term. Improve every day.*
+> *Build products. Think in systems. Improve every day.*
