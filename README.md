@@ -21,4 +21,4 @@ Building scalable, secure, and intelligent web systems.
 
 ---
 
-> “Code. Learn. Build. Repeat.” xullas github readme.md ozimga unchalik yoqmayapti shunga shuni sal boshqacharoq professionalashtiraylik 
+> “Code. Learn. Build. Repeat.” 
