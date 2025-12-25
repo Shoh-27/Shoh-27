@@ -59,19 +59,6 @@ I think long-term, iterate fast, and focus on impact.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shoh-27&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=radical&hide_border=true" height="140" />
-</p>
-
----
-
 ## 📫 Contact
 - 📧 Email: **shoh.nizomov.dev@gmail.com**  
 - 💬 Telegram: https://t.me/Nizomov27  
