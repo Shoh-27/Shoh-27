@@ -1,69 +1,24 @@
 # Shohrux Nizomov
 
-**Founder-minded Backend & Full-Stack Engineer**  
-Building SaaS products, scalable platforms, and intelligent web systems with long-term vision.
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=36BCF7&width=700&lines=Building+SaaS+Products;Designing+Scalable+Backend+Architectures;Turning+Ideas+Into+Real+Systems" />
-</p>
+**Backend & Fullstack Developer**  
+Building scalable, secure, and intelligent web systems.
 
 ---
 
-## 🚀 About Me
-I’m a **Computer Science & Software Engineering student** with a strong **startup and product mindset**.
-
-I don’t just build features —  
-I design **systems that scale**, evolve, and solve **real-world problems**.
-
-I’m especially passionate about:
-- clean and maintainable backend architecture  
-- scalable system & database design  
-- turning early ideas into production-ready products  
-
-I think long-term, iterate fast, and focus on impact.
+### 🧠 Core Expertise
+- **Backend Development:** Laravel, REST APIs, Authentication, Real-time Systems  
+- **Frontend:** React, Tailwind CSS, Bootstrap  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **DevOps & Tools:** Docker, Git, GitHub, Nginx, Linux  
+- **Others:** Composer, NPM, Bash, Cloud Environments  
 
 ---
 
-## 🛠 Tech Stack
-
-### Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
-<sub>Core backend tools for building secure, scalable APIs and platforms.</sub>
-
-### Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-<sub>Modern UI technologies for fast, clean, and responsive interfaces.</sub>
-
-### Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-<sub>Relational and NoSQL databases for reliable data storage.</sub>
-
-### DevOps & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,bash" />
-</p>
-<sub>Deployment, infrastructure, and version control essentials.</sub>
+### 📫 Contact
+📧 [shoh.nizomov.dev@gmail.com](mailto:shoh.nizomov.dev@gmail.com)  
+💬 [Telegram](https://t.me/Nizomov27)  
+🐙 [GitHub](https://github.com/Shoh-27)
 
 ---
 
-## 📌 What I’m Focused On
-- 🚀 Building **real SaaS products**, not demos  
-- 🧩 Designing **platform-oriented backend architectures**  
-- 🤖 Integrating **AI-powered features** into practical systems  
-
----
-
-## 📫 Contact
-- 📧 Email: **shoh.nizomov.dev@gmail.com**  
-- 💬 Telegram: https://t.me/Nizomov27  
-- 🐙 GitHub: https://github.com/Shoh-27  
-
----
-
-> *Build products. Think in systems. Improve every day.*
+> “Code. Learn. Build. Repeat.” xullas github readme.md ozimga unchalik yoqmayapti shunga shuni sal boshqacharoq professionalashtiraylik 
