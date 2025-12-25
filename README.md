@@ -4,8 +4,9 @@
 Building SaaS products, scalable platforms, and intelligent web systems.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=36BCF7&width=700&lines=Building+SaaS+•+Platforms+•+AI+Systems;Designing+Scalable+Backend+Architectures;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=36BCF7&width=700&lines=Building+SaaS+%E2%80%A2+Platforms+%E2%80%A2+AI+Systems;Designing+Scalable+Backend+Architectures;Turning+Ideas+Into+Products" />
 </p>
+
 
 
 
