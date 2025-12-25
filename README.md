@@ -61,13 +61,14 @@ I enjoy:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoh-27&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shoh-27&theme=transparent&hide_border=true" height="160" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=transparent" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=transparent&hide_border=true" height="140" />
 </p>
+
 
 ---
 
