@@ -1,109 +1,76 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Shohrux Nizomov</span></h1>
+# 🧪 Virtual Laboratory (vLab) MVP
 
-<p align="center">
-  <b>💻 Backend & Fullstack Developer</b><br>
-  <i>Building scalable, secure, and intelligent web platforms</i><br>
-  <img src="https://komarev.com/ghpvc/?username=Shoh-27&label=Profile+Views&color=0078ff&style=flat-square" alt="Profile Views"/>
-</p>
+**vLab** is an interactive, web-based STEM (Science, Technology, Engineering, and Mathematics) platform designed to simulate real-world laboratory experiments in a digital environment. This MVP focuses on a Physics module: **Free Fall Simulation**.
 
----
+## 🚀 Overview
 
-## 🧠 Tech Stack — Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,tailwind,bootstrap" />
-</p>
+The platform provides a 3D digital twin of a physics laboratory where students can experiment with gravity and height to observe classical mechanics in action. Unlike simple animations, vLab uses a dedicated physics engine to calculate results based on scientific laws.
 
----
+## ✨ Features
 
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
+- **3D Interactive Scene:** Powered by `Three.js` and `React Three Fiber` for a realistic spatial experience.
+- **Physics Engine:** Real-time calculations using Newton's laws of motion ($h = h_0 - 0.5gt^2$).
+- **Multi-Planetary Simulation:** Test gravity on Earth (9.81 m/s²), the Moon (1.62 m/s²), Mars (3.71 m/s²), and Jupiter (24.79 m/s²).
+- **Experiment Dashboard:** Automatically logs results (time of flight, final velocity) to a database for later review.
+- **Uzbek Localization:** Fully translated interface for local educational accessibility.
 
----
+## 🛠 Tech Stack
 
-## ⚙️ DevOps, Tools & Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,phpstorm,nginx,linux" />
-</p>
+- **Backend:** Laravel 11 (PHP 8.3)
+- **Frontend:** React + Inertia.js
+- **Styling:** Tailwind CSS
+- **3D Graphics:** Three.js, @react-three/fiber, @react-three/drei
+- **Database:** SQLite (for MVP portability)
 
----
+## 📥 Installation
 
-## 🧩 Other Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=composer,npm,bash,xampp" />
-</p>
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd vlab-project
+   ```
 
----
+2. **Install PHP dependencies:**
+   ```bash
+   composer install
+   ```
 
-## 🚀 Featured Projects
+3. **Install Node dependencies:**
+   ```bash
+   npm install
+   ```
 
-| 🧱 Project | 💬 Description | 🛠 Tech Stack |
-|------------|----------------|----------------|
-| 🎓 [**Mini-Udemy**](https://github.com/Shoh-27/mini-udemy) | A learning management system with online courses, lessons, and quizzes. | Laravel 10 • MySQL • REST API • Bootstrap |
-| 💰 [**Expense Tracker**](https://github.com/Shoh-27/expense-tracker) | Track daily expenses with authentication, charts & reports. | Laravel 10 • MySQL • Tailwind CSS |
-| 🧑‍🤝‍🧑 [**Social Media Platform**](https://github.com/Shoh-27/social-media) | Real-time app with profiles, posts, comments & notifications. | Laravel 11 • WebSockets • Docker • Redis • PostgreSQL |
-| ⚔️ [**RPG Game Platform**](https://github.com/Shoh-27/rpg) | Online RPG platform with quests, inventory, and progress tracking system. | Laravel 10 • MySQL • Blade • Tailwind CSS |
+4. **Setup environment:**
+   ```bash
+   cp .env.example .env
+   touch database/database.sqlite
+   php artisan key:generate
+   ```
 
----
+5. **Run migrations:**
+   ```bash
+   php artisan migrate
+   ```
 
-## 📊 GitHub Stats
-<div align="center">
+6. **Start the application:**
+   ```bash
+   # In terminal 1
+   php artisan serve
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoh-27&theme=tokyonight" width="800" alt="Profile Summary"/>
-<br>
+   # In terminal 2
+   npm run dev
+   ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shoh-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoh-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-<br>
+## 🧪 O'zbekcha Tavsif
 
-<!-- Asl streak image -->
-<img src="https://streak-stats.demolab.com?user=Shoh-27&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+**vLab** — bu STEM (biologiya, kimyo, fizika) sohalari uchun yaratilgan interaktiv virtual laboratoriya platformasi.
 
-<!-- Fallback sifatida — oddiy badge -->
-[![streak fallback](https://img.shields.io/badge/streak-Check%20profile-lightgrey?style=flat-square)](https://github.com/Shoh-27)
-
-
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shoh-27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true)](https://github.com/Shoh-27)
-
-
-</div>
-
----
-
-## 🌍 About Me
-<p align="center">
-  💡 Passionate about <b>AI, scalable architecture, and clean backend design</b><br>
-  🧩 Always learning, experimenting, and building impactful solutions<br>
-  🚀 Vision: <b>To build a platform that connects the world through knowledge and innovation</b><br>
-  🎯 Currently focused on: <b>Online Gaming Platform | Hosting SaaS | E-Learning Hub</b><br>
-  🌱 Constantly improving in: <b>Docker, PostgreSQL, and Cloud Infrastructure</b>
-</p>
+### Asosiy imkoniyatlar:
+- **3D Vizualizatsiya:** Laboratoriya asbob-uskunalari va jarayonlarni real vaqtda kuzatish.
+- **Ilmiy aniqlik:** Har bir simulyatsiya matematik modellarga va fizik qonuniyatlarga asoslangan.
+- **Natijalarni saqlash:** O'tkazilgan har bir tajriba foydalanuvchining shaxsiy dashboardida saqlanib boriladi.
+- **Mahalliylashtirish:** Tizim to'liq o'zbek tilida ishlaydi.
 
 ---
 
-## 📬 Contact Me
-<p align="center">
-  <a href="mailto:shoh.nizomov.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078ff?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Nizomov27">
-    <img src="https://img.shields.io/badge/Telegram-@Nizomov27-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shoh-27">
-    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/shohrux-nizomov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i><br>
-  <i>⭐ If you like my projects, consider giving them a star!</i><br><br>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+*Developed by Jules - AI Software Engineer*
