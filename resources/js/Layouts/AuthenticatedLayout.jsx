@@ -19,16 +19,23 @@ export default function AuthenticatedLayout({ header, children }) {
                         <div className="flex">
                             <div className="flex shrink-0 items-center">
                                 <Link href="/">
-                                    <ApplicationLogo className="block h-9 w-auto fill-current text-gray-800" />
+                                    <ApplicationLogo className="block h-9 w-auto fill-current text-blue-600" />
                                 </Link>
+                                <span className="ml-2 font-bold text-xl text-gray-800">vLab</span>
                             </div>
 
                             <div className="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
                                 <NavLink
-                                    href={route('dashboard')}
-                                    active={route().current('dashboard')}
+                                    href={route('lab.dashboard')}
+                                    active={route().current('lab.dashboard')}
                                 >
-                                    Dashboard
+                                    Natijalar
+                                </NavLink>
+                                <NavLink
+                                    href={route('lab.free-fall')}
+                                    active={route().current('lab.free-fall')}
+                                >
+                                    Laboratoriya
                                 </NavLink>
                             </div>
                         </div>
@@ -64,14 +71,14 @@ export default function AuthenticatedLayout({ header, children }) {
                                         <Dropdown.Link
                                             href={route('profile.edit')}
                                         >
-                                            Profile
+                                            Profil
                                         </Dropdown.Link>
                                         <Dropdown.Link
                                             href={route('logout')}
                                             method="post"
                                             as="button"
                                         >
-                                            Log Out
+                                            Chiqish
                                         </Dropdown.Link>
                                     </Dropdown.Content>
                                 </Dropdown>
@@ -129,10 +136,16 @@ export default function AuthenticatedLayout({ header, children }) {
                 >
                     <div className="space-y-1 pb-3 pt-2">
                         <ResponsiveNavLink
-                            href={route('dashboard')}
-                            active={route().current('dashboard')}
+                            href={route('lab.dashboard')}
+                            active={route().current('lab.dashboard')}
                         >
-                            Dashboard
+                            Natijalar
+                        </ResponsiveNavLink>
+                        <ResponsiveNavLink
+                            href={route('lab.free-fall')}
+                            active={route().current('lab.free-fall')}
+                        >
+                            Laboratoriya
                         </ResponsiveNavLink>
                     </div>
 
@@ -148,14 +161,14 @@ export default function AuthenticatedLayout({ header, children }) {
 
                         <div className="mt-3 space-y-1">
                             <ResponsiveNavLink href={route('profile.edit')}>
-                                Profile
+                                Profil
                             </ResponsiveNavLink>
                             <ResponsiveNavLink
                                 method="post"
                                 href={route('logout')}
                                 as="button"
                             >
-                                Log Out
+                                Chiqish
                             </ResponsiveNavLink>
                         </div>
                     </div>
